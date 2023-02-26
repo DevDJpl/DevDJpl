@@ -71,6 +71,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/D
 
 ---
 
+![Built By](https://img.shields.io/badge/Built%20by-Developers%20</>-e36d25)
+![Made With](https://img.shields.io/badge/Made%20With-♥️-ff0000)
+
 <!--
 **DevDJpl/DevDJpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
