@@ -33,7 +33,7 @@
 ### Mobile
 
 <img src="https://img.shields.io/badge/-Android-32de84.svg?logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/-ios-black.svg?logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/--black.svg?logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
   
 ### Tools
