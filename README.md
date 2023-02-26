@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Nuxt3-000000?style=flat&logo=Nuxt&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Nuxt3-000000?style=flat&logo=Nuxt.js&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js">
 
 ### Database
 
