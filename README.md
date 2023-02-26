@@ -8,6 +8,7 @@
 
 ### Backend
 
+<img src="https://img.shields.io/badge/-php-0079fe?style=flat&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
