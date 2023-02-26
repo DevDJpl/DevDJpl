@@ -1,7 +1,7 @@
 ### Hi, I'm DevDJ 👋
 ### WebMaster & Developer
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevDJpl/DevDJpl/master/programmer.gif" width="500"/>
 
 ## 👨🏻‍💻 About Me
 
@@ -59,20 +59,15 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDJpl&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDJpl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDJpl&layout=compact&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/DevDJpl)
 
 </div>
 
-<div align="right">
-
-
-</div>
-  
 ---
 
 <div align="center">
