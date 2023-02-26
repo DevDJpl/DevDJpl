@@ -5,23 +5,24 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently working on Translate System Manager.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Programming.
 - 💼 &nbsp; Fullstack Developer.
+- 📫 &nbsp; Contact with Me: contact@devdj.pl
 
 ## 🛠 Tech Stack
 
 <div>
 
-### Backend
+- Backend
 
 <img src="https://img.shields.io/badge/-PHP-0079fe?style=flat&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 
-### Frontend
+- Frontend
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -33,19 +34,19 @@
 <img src="https://img.shields.io/badge/-Nuxt-171719?style=flat&logo=Nuxt.js&logoColor=01db82">
 <img src="https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js">
 
-### Database
+- Database
 
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
-### Mobile
+- Mobile
 
 <img src="https://img.shields.io/badge/-Android-32de84.svg?logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/-iOS-black.svg">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
   
-### Tools
+- Tools
 
 <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
@@ -58,21 +59,37 @@
 
 ---
 
+<div align="left">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDJpl&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/DevDJpl)
 
+</div>
+
+<div align="right">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDJpl&layout=compact)
+
+</div>
+  
 ---
 
+<div align="center">
 
+### My Socials
 
-<br/>
-
+[![Website](https://img.shields.io/badge/Website-black.svg)](https://devdj.pl)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/DevDJpl)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/DevDJpl)
+[![Github Followers](https://img.shields.io/github/followers/DevDJpl.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DevDJpl?tab=followers)
 
 ---
 
 ![Built By](https://img.shields.io/badge/Built%20by-Developers%20</>-e36d25)
 ![Made With](https://img.shields.io/badge/Made%20With-♥️-ff0000)
+
+</div>
 
 <!--
 **DevDJpl/DevDJpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
