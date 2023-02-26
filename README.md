@@ -30,6 +30,12 @@
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
+### Mobile
+
+<img src="https://img.shields.io/badge/-Android-32de84.svg?logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/-ios-16-black.svg?logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+  
 ### Tools
 
 <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
