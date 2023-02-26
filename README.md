@@ -1,11 +1,12 @@
 ### Hi, I'm DevDJ 👋
-### WebMaster & Developer
+### ⚡ WebMaster & Developer
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevDJpl/DevDJpl/master/programmer.gif" width="500"/>
 
 ## 👨🏻‍💻 About Me
 
 - 🔭 &nbsp; I’m currently working on Translate System Manager.
+- 🌱 &nbsp; I’m currently learning Lua.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Programming.
 - 💼 &nbsp; Fullstack Developer.
