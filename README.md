@@ -10,9 +10,7 @@
 - 🎓 &nbsp; Studying Computer Programming.
 - 💼 &nbsp; Fullstack Developer.
 
-<h3>🛠 Tech Stack</h3>
-
----
+## 🛠 Tech Stack
 
 <div>
 
@@ -59,7 +57,6 @@
 </div>  
 
 ---
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDJpl&show_icons=true&hide_border=true)
 
