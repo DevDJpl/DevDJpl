@@ -1,6 +1,16 @@
 ### Hi, I'm DevDJ 👋
 ### WebMaster & Developer
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Programming.
+- 💼 &nbsp; Fullstack Developer.
+
+<h3>🛠 Tech Stack</h3>
 
 ---
 
@@ -8,7 +18,7 @@
 
 ### Backend
 
-<img src="https://img.shields.io/badge/-php-0079fe?style=flat&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/-PHP-0079fe?style=flat&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
@@ -46,9 +56,6 @@
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
 </div>  
 
 ---
@@ -61,11 +68,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/D
 ---
 
 
-### You can find in me in the web 🌍
-[<img align="left" alt="DevDJpl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DevDJpl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DevDJpl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DevDJpl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
