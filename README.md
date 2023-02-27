@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Nuxt-171719?style=flat&logo=Nuxt.js&logoColor=01db82">
