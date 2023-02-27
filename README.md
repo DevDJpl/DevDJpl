@@ -1,7 +1,7 @@
 ### Hi, I'm DevDJ 👋
 ### ⚡ WebMaster & Developer
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevDJpl/DevDJpl/master/programmer.gif" width="500"/>
+<img align="right" alt="Programmer" src="https://raw.githubusercontent.com/DevDJpl/DevDJpl/master/programmer.gif" width="500" />
 
 ## 👨🏻‍💻 About Me
 
@@ -19,8 +19,10 @@
 - <h4>Backend</h4>
 
 <img src="https://img.shields.io/badge/PHP-0079fe?style=flat&logo=PHP&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Laravel-ff2D20?style=flat&logo=laravel&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Symfony-000000.svg?style=flat&logo=symfony&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Node.js-84ce24?style=flat&logo=Node.js&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Express.js-787878?style=flat&logo=Express.js&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=Express&logoColor=ffffff">
 
 - <h4>Frontend</h4>
 
@@ -30,31 +32,46 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff">
 <img src="https://img.shields.io/badge/JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens">
+<img src="https://img.shields.io/badge/React-20232a?style=flat&logo=React&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Nuxt-171719?style=flat&logo=Nuxt.js&logoColor=01db82">
-<img src="https://img.shields.io/badge/Vue-333333?style=flat&logo=Vue.js">
+<img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=Nuxt.js&logoColor=01db82">
+<img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=Vue.js">
+<img src="https://img.shields.io/badge/Ember-1c1e24?style=flat&logo=ember.js&logoColor=d04a37">
+<img src="https://img.shields.io/badge/Chart.js-f5788d?style=flat&logo=chart.js&logoColor=ffffff">
 
 - <h4>Database</h4>
 
 <img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase">
 
 - <h4>Mobile</h4>
 
 <img src="https://img.shields.io/badge/Android-32de84.svg?logo=Android&logoColor=ffffff">
 <img src="https://img.shields.io/badge/iOS-black.svg">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Progressive%20Web%20Apps-5A0FC8?style=flat">
-  
+
+- <h4>Other Languages then I know</h4>
+
+<img src="https://img.shields.io/badge/C++-0180cd?logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-ffd43b?logo=Python&logoColor=306998">
+<img src="https://img.shields.io/badge/Java-ec2025?logo=Java8&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-f88909?logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-%232C2D72?style=flat&logo=lua&logoColor=white">
+
 - <h4>Tools</h4>
 
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=ffffff">
+<img src="https://img.shields.io/badge/NPM-cb3837?style=flat&logo=npm&logoColor=ffffff">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Android%20Studio-32de84?style=flat&logo=android%20studio&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Android%20Studio-32de84?style=flat&logo=android%20studio&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Atom-a7dc96?style=flat&logo=atom&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Pycharm-green?style=flat&logo=pycharm&logoColor=black">
 <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=ffffff">
 
