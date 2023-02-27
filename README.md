@@ -45,6 +45,9 @@
 
 <img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=ffffff">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-dd0031?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase">
 
 - <h4>Mobile</h4>
@@ -61,7 +64,7 @@
 <img src="https://img.shields.io/badge/Python-ffd43b?logo=Python&logoColor=306998">
 <img src="https://img.shields.io/badge/Java-ec2025?logo=Java8&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-f88909?logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Lua-%232C2D72?style=flat&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-000081?style=flat&logo=lua&logoColor=white"> <!-- #2c2s72 -->
 
 - <h4>Tools</h4>
 
@@ -72,6 +75,16 @@
 <img src="https://img.shields.io/badge/Android%20Studio-32de84?style=flat&logo=android%20studio&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Atom-a7dc96?style=flat&logo=atom&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Pycharm-green?style=flat&logo=pycharm&logoColor=black">
+
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-fb0f01?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-02c5fa?style=flat&logo=adobe%20photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-fe9900?style=flat&logo=adobe%20illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=ff61f6">
+<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-89ef08?style=flat&logo=Adobe%20Dreamweaver&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999ff?style=flat&logo=Adobe%20After%20Effects&logoColor=00005b">
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999ff?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=00005b">
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white">
+
 <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=ffffff">
 
