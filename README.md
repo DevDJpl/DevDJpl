@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Symfony-000000.svg?style=flat&logo=symfony&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Node.js-84ce24?style=flat&logo=Node.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=Express&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Nest.js-eb2343?style=flat&logo=Nestjs&logoColor=ffffff">
 
 - <h4>Frontend</h4>
 
