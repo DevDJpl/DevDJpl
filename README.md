@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Node.js-84ce24?style=flat&logo=Node.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=Express&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Nest.js-eb2343?style=flat&logo=Nestjs&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white">
 
 - <h4>Frontend</h4>
 
@@ -40,12 +41,17 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=Nuxt.js&logoColor=01db82">
 <img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=Vue.js">
+<img src="https://img.shields.io/badge/Angular-de140e?style=flat&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Ember-1c1e24?style=flat&logo=ember.js&logoColor=d04a37">
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Material UI-0080ff?style=flat&logo=mui&logoColor=white">
 <img src="https://img.shields.io/badge/Chart.js-f5788d?style=flat&logo=chart.js&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white">
 
 - <h4>Database</h4>
 
 <img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=ffffff">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white">
@@ -64,31 +70,40 @@
 
 <img src="https://img.shields.io/badge/C++-0180cd?logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ffd43b?logo=Python&logoColor=306998">
-<img src="https://img.shields.io/badge/Java-ec2025?logo=Java8&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ec2025?logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-f88909?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-000081?style=flat&logo=lua&logoColor=white"> <!-- #2c2s72 -->
+<img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
 
 - <h4>Tools</h4>
 
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=ffffff">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Bitbucket-207CF7?style=flat&logo=bitbucket&logoColor=ffffff">
 <img src="https://img.shields.io/badge/NPM-cb3837?style=flat&logo=npm&logoColor=ffffff">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Android%20Studio-32de84?style=flat&logo=android%20studio&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Atom-a7dc96?style=flat&logo=atom&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Pycharm-green?style=flat&logo=pycharm&logoColor=black">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
 
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-fb0f01?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-02c5fa?style=flat&logo=adobe%20photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-fe9900?style=flat&logo=adobe%20illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-fb0f01?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-02c5fa?style=flat&logo=adobe%20photoshop&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-fe9900?style=flat&logo=adobe%20illustrator&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=ff61f6">
-<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-89ef08?style=flat&logo=Adobe%20Dreamweaver&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-89ef08?style=flat&logo=Adobe%20Dreamweaver&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999ff?style=flat&logo=Adobe%20After%20Effects&logoColor=00005b">
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999ff?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=00005b">
-<img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=ffffff">
+<img src="https://img.shields.io/badge/XAMPP-fb7b1f?style=flat&logo=xampp&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 
 <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Google%20Analytics-f9ab00?style=flat&logo=google%20analytics&logoColor=white">
 
 </div>  
 
