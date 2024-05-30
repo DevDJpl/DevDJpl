@@ -111,8 +111,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDJpl&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDJpl&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDJpl&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevDJpl&theme=meta-light&hide_border=true)
 
 </div>
 
@@ -125,7 +126,7 @@
 [![Website](https://img.shields.io/badge/Website-black.svg)](https://devdj.pl)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/DevDJpl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/DevDJpl)
-[![Github Followers](https://img.shields.io/github/followers/DevDJpl.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DevDJpl?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/DevDJpl?style=social&label=Follow&maxAge=2592000)](https://github.com/DevDJpl?tab=followers)
 
 ---
 
