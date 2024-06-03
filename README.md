@@ -101,7 +101,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 
 <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=ff9c00">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Google%20Analytics-f9ab00?style=flat&logo=google%20analytics&logoColor=white">
 
