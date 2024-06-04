@@ -64,6 +64,7 @@
 <img src="https://img.shields.io/badge/iOS-black.svg">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Progressive%20Web%20Apps-5A0FC8?style=flat&logo=pwa&logoColor=ffffff">
 
 - <h4>Other Languages then I know</h4>
