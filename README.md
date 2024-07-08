@@ -69,10 +69,8 @@
 
 - <h4>Other Languages then I know</h4>
 
-<img src="https://img.shields.io/badge/C++-0180cd?logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512bd4?logo=c%23&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ffd43b?logo=Python&logoColor=306998">
-<img src="https://img.shields.io/badge/Java-ec2025?logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-f88909?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-000081?style=flat&logo=lua&logoColor=white"> <!-- #2c2s72 -->
 <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white">
