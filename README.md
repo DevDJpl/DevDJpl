@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently working on Translate System Manager.
+- 🔭 &nbsp; I’m currently working on AuthGuard.
 - 🌱 &nbsp; I’m currently learning Lua.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Programming.
